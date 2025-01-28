@@ -1,3 +1,5 @@
+# This code allows for a desired set point to be translated into a signal the drive can convert to determine the spindle speed
+
 import tkinter as tk
 from tkinter import ttk
 import RPi.GPIO as GPIO
