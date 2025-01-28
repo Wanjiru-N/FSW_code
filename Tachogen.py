@@ -1,3 +1,5 @@
+#    This code reads analogue input (voltage from the tacho generator) and displays the average spindle speed in rpm for every second that the program runs.
+
 import time
 import threading
 import Adafruit_ADS1x15
