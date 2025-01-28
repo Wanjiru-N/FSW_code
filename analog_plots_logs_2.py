@@ -1,3 +1,6 @@
+#    This code visualises system behaviour (spindle speed) and logs 
+#    the data in comma-separated variable files and Excel files that can be used for future analysis
+
 import Adafruit_ADS1x15
 import matplotlib.pyplot as plt
 import time
